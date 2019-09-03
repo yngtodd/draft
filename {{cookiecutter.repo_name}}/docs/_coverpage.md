@@ -1,4 +1,8 @@
-![logo](_media/icon.svg)
+<p align="center">
+  <a href="https://docsify.js.org">
+    <img alt="draft" src="./_media/icon.svg">
+  </a>
+</p>
 
 <hr style='width:40%; border-color:#da291c;'>
 <h1 style="color: #da291c">{{ cookiecutter.project_name }}</h1>
