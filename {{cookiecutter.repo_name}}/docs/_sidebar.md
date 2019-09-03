@@ -5,4 +5,4 @@
 * History
   * [authors](AUTHORS.md)
   * [contributing](CONTRIBUTING.md)
-  * [history](HISTORY.MD)
+  * [history](HISTORY.md)
