@@ -4,6 +4,6 @@ Draft
 
 A cookiecutter template for docsify books.
 
-.. codeblock:: bash
+.. code-block:: bash
 
      cookiecutter https://github.com/yngtodd/draft.git
