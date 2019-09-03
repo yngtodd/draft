@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://docsify.js.org">
-    <img alt="docsify" src="./docs/_media/icon.svg">
-  </a>
-</p>
+![logo](_media/icon.svg)
 
 <hr style='width:40%; border-color:#da291c;'>
 <h1 style="color: #da291c">{{ cookiecutter.project_name }}</h1>
@@ -10,7 +6,6 @@
 <p style="color: #da291c">version {{ cookiecutter.version }}</p>
 
 [GitHub](https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }})
-<!-- [Get Started](#docsify) -->
 
 <!-- background color -->
 ![color](#ffffff)
