@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/master/docs/_media/icon.svg" width="200px">
+<img src="https://raw.githubusercontent.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/master/docs/_media/icon.png" width="200px">
 
 <hr style='width:40%; border-color:#da291c;'>
 <h1 style="color: #da291c">{{ cookiecutter.project_name }}</h1>
