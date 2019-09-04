@@ -5,7 +5,7 @@
 # Library Reference
   * [API](library/api.md)
 
-* History
+* Community
   * [authors](AUTHORS.md)
   * [contributing](CONTRIBUTING.md)
   * [history](HISTORY.md)
