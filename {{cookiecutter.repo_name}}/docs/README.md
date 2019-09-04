@@ -4,6 +4,6 @@
   </a>
 </p>
 
-## Welcome to {{ cookiecutter.project_name }}
+### Welcome to {{ cookiecutter.project_name }}
 
 {{ cookiecutter.project_short_description }}
